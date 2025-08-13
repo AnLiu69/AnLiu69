@@ -13,7 +13,7 @@ Profesional dedicado a desarrollar ideas innovadoras, soluciones y proyectos des
 
 <!--Iconos de tecnologías-->
 ## Tecnologías 💻
-<p align="left" style="display:flex; gap:10px;">
+<p align="left" style="display:flex; gap:20px;">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
@@ -21,7 +21,7 @@ Profesional dedicado a desarrollar ideas innovadoras, soluciones y proyectos des
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a>
 </p>
 
+<!--Estadísticas del perfil-->
 ![Anliu GitHub stats](https://github-readme-stats.vercel.app/api?username=anliu69&show_icons=true&theme=dracula)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anliu69&layout=compact)
 
