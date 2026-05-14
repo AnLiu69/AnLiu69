@@ -7,6 +7,7 @@
 <!--Redes de contacto-->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-flores-mayta-4698242b5/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)](https://anliu69.github.io/portafolio/)
+[![React Junior Certificate](https://img.shields.io/badge/React_Certified-Junior-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/a16e2920-09af-4867-b8d7-a297768d016e)
 
 <!--Descripción-->
 Profesional dedicado a desarrollar ideas innovadoras, soluciones y proyectos desafiantes, utilizando las herramientas adecuadas y aprendiendo nuevas constantemente. 
